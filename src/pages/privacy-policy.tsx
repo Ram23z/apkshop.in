@@ -9,7 +9,7 @@ return (
     <br />
     <p>The purpose of this privacy notice (“Privacy Notice”) is to inform you as a user about why and how we process
         your personal data (that is any information that can be linked or attributed to you, “Personal Data”) when you
-        play our games and visit www.apkpix.com (“Website”). This includes information regarding with whom we will share
+        play our games and visit www.Apkshop.com (“Website”). This includes information regarding with whom we will share
         your Personal Data, how long we will retain it, and which rights you have in relation to the processing.</p>
     <br />
     <p>This Privacy Notice applies whenever you visit our Website or play a game from our Website or use any of our
@@ -487,7 +487,7 @@ return (
         online and that the law may not permit or require removal in certain circumstances.<br /><br /></p>
     <h2><strong>How can You Contact us?<br /><br /></strong></h2>
     <p>If you have any queries about this Privacy Notice or how we use your Personal Data, please contact our customer
-        support <a href="mailto:support@apkshop.com">support@apkpix.com</a>.<br /><br /></p>
+        support <a href="mailto:support@apkshop.in">support@Apkshop.in</a>.<br /><br /></p>
     <p>Please specify in your request, insofar as possible, to which Personal Data your request relates and what right
         you wish to exercise, and provide evidence to demonstrate that you are the individual to whom the Personal Data
         relates. We aim to respond to your request within a period of one month.<br /><br /></p>
