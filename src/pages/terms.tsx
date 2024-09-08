@@ -1,3 +1,9 @@
+import config from "../../config.json";
+
+export default function Terms() {
+    return (
+      <>  
+
 <h1><strong>Terms and conditions</strong></h1>
 <br/>
 <p>These terms and conditions (“Agreement”) set forth the general terms and conditions of your use of the <a
@@ -201,3 +207,6 @@
 <br/>
 <p>This document was last updated on September 7, 2024</p>
 <br/>
+     </>
+    );
+  }
